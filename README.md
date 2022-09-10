@@ -1,1 +1,1 @@
-https://YermakA.github.io/rsschool-cv/cv
+https://YermakA.github.io/rsschool-cv/
