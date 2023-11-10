@@ -1,0 +1,36 @@
+body {
+  background-color: antiquewhite;
+
+}
+
+.container {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.cat-img {
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+  position: absolute;
+  top: 85px;
+  right: 750px;
+}
+
+.title {
+  margin: 0;
+  font-size: 5rem;
+}
+
+.subtitle {
+  margin: 0;
+  margin-top: 20px;
+  font-size: 3rem;
+}
+
+.text {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 400;
+
+}
